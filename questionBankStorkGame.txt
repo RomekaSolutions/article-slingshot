@@ -1,0 +1,1651 @@
+{
+"questions": [
+{
+"id": 1,
+"sentence": "I finished ___ book you lent me last week.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "countable_singular_specific",
+"explanation": "The book is clearly specific because you lent it last week."
+},
+{
+"id": 2,
+"sentence": "I need ___ new phone for my English lessons.",
+"correctArticle": "a",
+"difficulty": "easy",
+"category": "countable_singular_general",
+"explanation": "This is the first mention of any phone, so use 'a'."
+},
+{
+"id": 3,
+"sentence": "___ students in my evening class are all Russian.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "countable_plural_specific",
+"explanation": "We mean one specific group of students, so use 'the'."
+},
+{
+"id": 4,
+"sentence": "___ cats usually sleep most of the day.",
+"correctArticle": "zero",
+"difficulty": "easy",
+"category": "countable_plural_general",
+"explanation": "We are talking about cats in general, so no article."
+},
+{
+"id": 5,
+"sentence": "___ water in this bottle tastes strange today.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "uncountable_specific",
+"explanation": "The water is specific because it is in this bottle."
+},
+{
+"id": 6,
+"sentence": "___ water is essential for all forms of life.",
+"correctArticle": "zero",
+"difficulty": "easy",
+"category": "uncountable_general",
+"explanation": "We mean water in general, so no article is needed."
+},
+{
+"id": 7,
+"sentence": "My sister is ___ doctor at the city hospital.",
+"correctArticle": "a",
+"difficulty": "easy",
+"category": "jobs_after_be",
+"explanation": "Professions after 'be' use 'a' or 'an' in singular."
+},
+{
+"id": 8,
+"sentence": "This is ___ best restaurant in our neighborhood.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "superlatives_unique",
+"explanation": "Superlatives like 'best' take 'the' before the noun."
+},
+{
+"id": 9,
+"sentence": "We usually have ___ breakfast together at eight o'clock.",
+"correctArticle": "zero",
+"difficulty": "easy",
+"category": "fixed_expressions_no_article",
+"explanation": "Meals like breakfast normally take no article in this expression."
+},
+{
+"id": 10,
+"sentence": "I want to visit ___ Moscow again next summer.",
+"correctArticle": "zero",
+"difficulty": "easy",
+"category": "proper_nouns",
+"explanation": "City names like Moscow do not use an article."
+},
+{
+"id": 11,
+"sentence": "He moved to ___ United States when he was ten.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "geographical_exceptions",
+"explanation": "Country names with 'States' use 'the', like the United States."
+},
+{
+"id": 12,
+"sentence": "She plays ___ piano beautifully in the school concerts.",
+"correctArticle": "the",
+"difficulty": "easy",
+"category": "musical_instruments",
+"explanation": "We use 'the' with musical instruments in general statements."
+},
+{
+  "id": 13,
+  "sentence": "I finally answered ___ email you sent yesterday.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_singular_specific",
+  "explanation": "The email is specific because it was sent yesterday."
+},
+{
+  "id": 14,
+  "sentence": "He bought ___ used car for his new job.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "countable_singular_general",
+  "explanation": "This is any one car, mentioned for the first time."
+},
+{
+  "id": 15,
+  "sentence": "___ keys on the kitchen table belong to my neighbor.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_plural_specific",
+  "explanation": "We mean particular keys on the table, so use 'the'."
+},
+{
+  "id": 16,
+  "sentence": "___ smartphones have changed how people communicate.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "countable_plural_general",
+  "explanation": "We are speaking about smartphones in general, so no article."
+},
+{
+  "id": 17,
+  "sentence": "___ advice you gave me yesterday was really helpful.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "uncountable_specific",
+  "explanation": "The advice is specific because it was given yesterday."
+},
+{
+  "id": 18,
+  "sentence": "Good ___ advice is important when starting a business.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "uncountable_general",
+  "explanation": "Advice is uncountable and mentioned in a general way."
+},
+{
+  "id": 19,
+  "sentence": "My cousin is ___ engineer at an international company.",
+  "correctArticle": "an",
+  "difficulty": "easy",
+  "category": "jobs_after_be",
+  "explanation": "The job is singular and starts with a vowel sound, so 'an'."
+},
+{
+  "id": 20,
+  "sentence": "It was ___ first time I flew by myself.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "superlatives_unique",
+  "explanation": "'First time' is unique and needs 'the'."
+},
+{
+  "id": 21,
+  "sentence": "I usually go to ___ bed around midnight.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The expression 'go to bed' uses no article."
+},
+{
+  "id": 22,
+  "sentence": "___ Lake Baikal is in the south of Siberia.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "proper_nouns",
+  "explanation": "Names with 'Lake' normally take no article before them."
+},
+{
+  "id": 23,
+  "sentence": "They sailed across ___ Black Sea last summer.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "geographical_exceptions",
+  "explanation": "Seas like the Black Sea take 'the'."
+},
+{
+  "id": 24,
+  "sentence": "He is learning to play ___ guitar this year.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "musical_instruments",
+  "explanation": "Playing a musical instrument uses 'the' before the noun."
+},
+
+{
+  "id": 25,
+  "sentence": "She lost ___ key to the door of her flat.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_singular_specific",
+  "explanation": "It is the specific key for that door, so 'the'."
+},
+{
+  "id": 26,
+  "sentence": "He is looking for ___ new apartment near the metro.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "countable_singular_general",
+  "explanation": "Any one apartment, first mention, so 'a'."
+},
+{
+  "id": 27,
+  "sentence": "___ books on the top shelf belong to my mother.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_plural_specific",
+  "explanation": "We are talking about particular books on the top shelf."
+},
+{
+  "id": 28,
+  "sentence": "___ bicycles are an eco-friendly way to travel in cities.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "countable_plural_general",
+  "explanation": "Bicycles here means bicycles in general, so zero article."
+},
+{
+  "id": 29,
+  "sentence": "___ money I borrowed from you is on your desk.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "uncountable_specific",
+  "explanation": "The money is specific because I borrowed it from you."
+},
+{
+  "id": 30,
+  "sentence": "___ money cannot buy real friends or happiness.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "uncountable_general",
+  "explanation": "Money is used in a general sense, so no article."
+},
+{
+  "id": 31,
+  "sentence": "Her brother is ___ lawyer in a small town.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "jobs_after_be",
+  "explanation": "A singular profession after 'be' needs 'a' or 'an'."
+},
+{
+  "id": 32,
+  "sentence": "He was ___ only student who answered correctly.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "superlatives_unique",
+  "explanation": "The word 'only' makes the noun unique, so 'the'."
+},
+{
+  "id": 33,
+  "sentence": "I go to ___ work by bus every weekday.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The expression 'go to work' is used without an article."
+},
+{
+  "id": 34,
+  "sentence": "___ Pushkin is one of the most famous Russian poets.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "proper_nouns",
+  "explanation": "Personal names like Pushkin do not take an article."
+},
+{
+  "id": 35,
+  "sentence": "They went skiing in ___ Alps last winter.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "geographical_exceptions",
+  "explanation": "Mountain ranges like the Alps use 'the'."
+},
+{
+  "id": 36,
+  "sentence": "My friend plays ___ violin in a local orchestra.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "musical_instruments",
+  "explanation": "Playing a musical instrument uses 'the'."
+},
+
+{
+  "id": 37,
+  "sentence": "I washed ___ cup you left on the windowsill.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_singular_specific",
+  "explanation": "It is a particular cup that you left, so 'the'."
+},
+{
+  "id": 38,
+  "sentence": "We should buy ___ bigger fridge for the kitchen.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "countable_singular_general",
+  "explanation": "This is one new, not-yet-known fridge, so 'a'."
+},
+{
+  "id": 39,
+  "sentence": "___ documents you printed are on my desk now.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific documents that you printed."
+},
+{
+  "id": 40,
+  "sentence": "___ cars are getting more expensive every year.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "countable_plural_general",
+  "explanation": "We are talking about cars in general, so zero article."
+},
+{
+  "id": 41,
+  "sentence": "___ information in your report is accurate and clear.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "uncountable_specific",
+  "explanation": "The information is specific, from your report."
+},
+{
+  "id": 42,
+  "sentence": "Accurate ___ information is important in scientific research.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "uncountable_general",
+  "explanation": "Information is uncountable and used in a general sense."
+},
+{
+  "id": 43,
+  "sentence": "My uncle is ___ taxi driver in our small town.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "jobs_after_be",
+  "explanation": "A singular profession after 'be' needs 'a'."
+},
+{
+  "id": 44,
+  "sentence": "It was ___ same problem we had last month.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "superlatives_unique",
+  "explanation": "'Same' refers to one specific problem, so 'the'."
+},
+{
+  "id": 45,
+  "sentence": "I usually have ___ dinner with my family at home.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "fixed_expressions_no_article",
+  "explanation": "Meals like dinner are used without an article here."
+},
+{
+  "id": 46,
+  "sentence": "We are flying to ___ Berlin for a conference.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "proper_nouns",
+  "explanation": "City names like Berlin do not take an article."
+},
+{
+  "id": 47,
+  "sentence": "They crossed ___ Sahara on a long, dangerous journey.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "geographical_exceptions",
+  "explanation": "Deserts like the Sahara take 'the'."
+},
+{
+  "id": 48,
+  "sentence": "She can already play ___ drums quite confidently.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "musical_instruments",
+  "explanation": "Talking about playing an instrument uses 'the'."
+},
+
+{
+  "id": 49,
+  "sentence": "I called ___ teacher we met at the conference.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_singular_specific",
+  "explanation": "We both know which teacher, from the conference."
+},
+{
+  "id": 50,
+  "sentence": "He wants to buy ___ small house near the forest.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "countable_singular_general",
+  "explanation": "Any small house, first mentioned, takes 'a'."
+},
+{
+  "id": 51,
+  "sentence": "___ chairs around the table need to be repaired.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific chairs around that table."
+},
+{
+  "id": 52,
+  "sentence": "___ teachers often work longer hours than people think.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "countable_plural_general",
+  "explanation": "We are speaking about teachers in general, so zero article."
+},
+{
+  "id": 53,
+  "sentence": "___ noise from the construction outside is driving me crazy.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "uncountable_specific",
+  "explanation": "The noise is specific, from that construction."
+},
+{
+  "id": 54,
+  "sentence": "Too much ___ noise can damage your hearing permanently.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "uncountable_general",
+  "explanation": "Noise is used generally, so no article."
+},
+{
+  "id": 55,
+  "sentence": "Her mother is ___ nurse in the local clinic.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "jobs_after_be",
+  "explanation": "A singular job after 'be' uses 'a'."
+},
+{
+  "id": 56,
+  "sentence": "This is ___ last chance to change your flight.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "superlatives_unique",
+  "explanation": "'Last chance' is unique in this situation, so 'the'."
+},
+{
+  "id": 57,
+  "sentence": "He goes to ___ school on foot every morning.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The expression 'go to school' has no article."
+},
+{
+  "id": 58,
+  "sentence": "___ Siberia is famous for its long, cold winters.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "proper_nouns",
+  "explanation": "Large regions like Siberia usually take no article in this use."
+},
+{
+  "id": 59,
+  "sentence": "We sailed across ___ Pacific Ocean during the cruise.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "geographical_exceptions",
+  "explanation": "Oceans like the Pacific Ocean require 'the'."
+},
+{
+  "id": 60,
+  "sentence": "He wants to learn ___ saxophone next summer.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "musical_instruments",
+  "explanation": "Talking about playing an instrument uses 'the'."
+},
+
+{
+  "id": 61,
+  "sentence": "I repaired ___ lamp that stopped working yesterday.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_singular_specific",
+  "explanation": "It is the particular lamp that stopped working yesterday."
+},
+{
+  "id": 62,
+  "sentence": "She is looking for ___ new roommate for her flat.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "countable_singular_general",
+  "explanation": "Any one roommate, first mention, so 'a'."
+},
+{
+  "id": 63,
+  "sentence": "___ questions at the end of the test were difficult.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "countable_plural_specific",
+  "explanation": "We mean specific questions at the end of the test."
+},
+{
+  "id": 64,
+  "sentence": "___ trains are often faster than cars for long distances.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "countable_plural_general",
+  "explanation": "Trains here are mentioned in general, so no article."
+},
+{
+  "id": 65,
+  "sentence": "___ coffee in this cup is already cold.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "uncountable_specific",
+  "explanation": "The coffee is specific because it is in this cup."
+},
+{
+  "id": 66,
+  "sentence": "Drinking ___ coffee late at night can cause insomnia.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "uncountable_general",
+  "explanation": "Coffee is used in a general sense, so zero article."
+},
+{
+  "id": 67,
+  "sentence": "My cousin is ___ journalist for an online magazine.",
+  "correctArticle": "a",
+  "difficulty": "easy",
+  "category": "jobs_after_be",
+  "explanation": "We use 'a' with a singular job title after 'be'."
+},
+{
+  "id": 68,
+  "sentence": "It was ___ only option we had at that moment.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "superlatives_unique",
+  "explanation": "'Only option' is unique, so we use 'the'."
+},
+{
+  "id": 69,
+  "sentence": "I usually go home from ___ work at six o'clock.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "fixed_expressions_no_article",
+  "explanation": "Both 'to work' and 'from work' take no article."
+},
+{
+  "id": 70,
+  "sentence": "___ Europe has many countries with different cultures.",
+  "correctArticle": "zero",
+  "difficulty": "easy",
+  "category": "proper_nouns",
+  "explanation": "Continents like Europe are used without an article here."
+},
+{
+  "id": 71,
+  "sentence": "He went hiking in ___ Carpathian Mountains last year.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "geographical_exceptions",
+  "explanation": "Mountain ranges like the Carpathian Mountains take 'the'."
+},
+{
+  "id": 72,
+  "sentence": "My brother can already play ___ flute quite well.",
+  "correctArticle": "the",
+  "difficulty": "easy",
+  "category": "musical_instruments",
+  "explanation": "We say 'play the flute' for musical instruments."
+},
+
+{
+  "id": 73,
+  "sentence": "She didn’t like ___ dress you recommended yesterday.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "It refers to the specific dress you recommended."
+},
+{
+  "id": 74,
+  "sentence": "He wants to buy ___ electric bike for his commute.",
+  "correctArticle": "an",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "First mention of any electric bike, so 'an'."
+},
+{
+  "id": 75,
+  "sentence": "___ emails we discussed earlier still need careful translation.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "These are the particular emails discussed earlier."
+},
+{
+  "id": 76,
+  "sentence": "___ programmers often work remotely from different time zones.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We are speaking about programmers in general."
+},
+{
+  "id": 77,
+  "sentence": "___ sugar in this tea makes it too sweet for me.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "The sugar is specific, in this particular tea."
+},
+{
+  "id": 78,
+  "sentence": "Too much ___ sugar can lead to health problems.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Sugar is used generally, so no article."
+},
+{
+  "id": 79,
+  "sentence": "My neighbor is ___ architect who designs eco-friendly houses.",
+  "correctArticle": "an",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "A singular job after 'be' needs 'a' or 'an'."
+},
+{
+  "id": 80,
+  "sentence": "It was ___ most boring lecture I have ever attended.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlatives like 'most boring' require 'the'."
+},
+{
+  "id": 81,
+  "sentence": "He arrived late and went straight to ___ bed without dinner.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The fixed expression 'go to bed' takes no article."
+},
+{
+  "id": 82,
+  "sentence": "___ Saint Petersburg is famous for its beautiful canals.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "City names with 'Saint' usually have no article."
+},
+{
+  "id": 83,
+  "sentence": "They are planning a trip across ___ Netherlands in spring.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Countries like the Netherlands need 'the'."
+},
+{
+  "id": 84,
+  "sentence": "She has been learning ___ cello since she was ten.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "We use 'the' with musical instruments in this sense."
+},
+
+{
+  "id": 85,
+  "sentence": "Please send me ___ file we edited together last night.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "The file is clearly identified as the one edited together."
+},
+{
+  "id": 86,
+  "sentence": "She wants to adopt ___ cat from the local shelter.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any one cat, first mention, so 'a'."
+},
+{
+  "id": 87,
+  "sentence": "___ photos we took during the trip look amazing.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific photos from that trip."
+},
+{
+  "id": 88,
+  "sentence": "___ engineers must solve complex problems every working day.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We mean engineers in general, not a specific group."
+},
+{
+  "id": 89,
+  "sentence": "___ knowledge you gain at university will help your career.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "The knowledge is specific, gained at university."
+},
+{
+  "id": 90,
+  "sentence": "___ knowledge is more valuable when you actually use it.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Knowledge here is general and uncountable, so no article."
+},
+{
+  "id": 91,
+  "sentence": "Her brother is ___ translator for an international company.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "A singular profession after 'be' takes 'a'."
+},
+{
+  "id": 92,
+  "sentence": "That was ___ most exciting match they had played together.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'most exciting' requires 'the'."
+},
+{
+  "id": 93,
+  "sentence": "She stayed at ___ home instead of going to the party.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The phrase 'at home' normally has no article."
+},
+{
+  "id": 94,
+  "sentence": "___ Lake Ladoga is one of the largest lakes in Europe.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "Names with 'Lake' usually omit the article in this pattern."
+},
+{
+  "id": 95,
+  "sentence": "They took a cruise along ___ Volga River last summer.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Rivers like the Volga take 'the'."
+},
+{
+  "id": 96,
+  "sentence": "He began playing ___ trumpet in a local jazz band.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "Playing an instrument is expressed with 'the'."
+},
+
+{
+  "id": 97,
+  "sentence": "I couldn't open ___ file you attached to your message.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "The file is specific, the one attached to the message."
+},
+{
+  "id": 98,
+  "sentence": "He is saving money to buy ___ reliable used laptop.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any one reliable laptop, first mention, so 'a'."
+},
+{
+  "id": 99,
+  "sentence": "___ mistakes you made in this exercise are quite typical.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "We are referring to particular mistakes in this exercise."
+},
+{
+  "id": 100,
+  "sentence": "___ Russians often drink tea with lemon instead of milk.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We talk about Russians as a group in general."
+},
+{
+  "id": 101,
+  "sentence": "___ weather in this city changes very quickly in spring.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "The weather is specific to this city."
+},
+{
+  "id": 102,
+  "sentence": "___ weather strongly influences people’s mood and energy levels.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Weather here is used in a general, abstract sense."
+},
+{
+  "id": 103,
+  "sentence": "Her sister is ___ software developer for a start-up.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "Jobs after 'be' require 'a' or 'an' in singular."
+},
+{
+  "id": 104,
+  "sentence": "That was ___ strangest dream I have ever had.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'strangest' needs 'the'."
+},
+{
+  "id": 105,
+  "sentence": "He usually goes to ___ university by tram in the morning.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "In British usage, 'go to university' normally takes no article."
+},
+{
+  "id": 106,
+  "sentence": "___ Red Square is a popular tourist place in Moscow.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "With 'Red Square', no article is used in standard English."
+},
+{
+  "id": 107,
+  "sentence": "They drove along ___ Italian coast during their honeymoon.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Specific coasts, like the Italian coast, usually take 'the'."
+},
+{
+  "id": 108,
+  "sentence": "She teaches children how to play ___ recorder at school.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "Musical instruments in this context take 'the'."
+},
+
+{
+  "id": 109,
+  "sentence": "I finally understood ___ rule you explained yesterday.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "The rule is specific: the one explained yesterday."
+},
+{
+  "id": 110,
+  "sentence": "She hopes to buy ___ apartment with a balcony soon.",
+  "correctArticle": "an",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any one apartment, first mention, so 'an'."
+},
+{
+  "id": 111,
+  "sentence": "___ exams we wrote last semester were extremely stressful.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "We refer to specific exams taken last semester."
+},
+{
+  "id": 112,
+  "sentence": "___ doctors often have to work during weekends and holidays.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We are talking about doctors in general, as a profession."
+},
+{
+  "id": 113,
+  "sentence": "___ food in this canteen tastes much better than before.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "The food is specific, from this particular canteen."
+},
+{
+  "id": 114,
+  "sentence": "___ food is a central part of every country’s culture.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Food is mentioned in a general sense here."
+},
+{
+  "id": 115,
+  "sentence": "Her father is ___ pilot for a major airline.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "Singular profession after 'be' needs 'a'."
+},
+{
+  "id": 116,
+  "sentence": "That was ___ least interesting chapter of the whole book.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlatives, even with 'least', require 'the'."
+},
+{
+  "id": 117,
+  "sentence": "He spent a week in ___ hospital after the accident.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "In British English, 'in hospital' as a patient takes no article."
+},
+{
+  "id": 118,
+  "sentence": "___ Kazakhstan is the largest landlocked country in the world.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "Most single-word country names like Kazakhstan take no article."
+},
+{
+  "id": 119,
+  "sentence": "They crossed ___ English Channel in a small boat.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Named channels usually take 'the', like the English Channel."
+},
+{
+  "id": 120,
+  "sentence": "He is practising ___ keyboard so he can join the band.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "Playing instruments generally uses 'the'."
+},
+
+{
+  "id": 121,
+  "sentence": "I corrected ___ essay you submitted on Monday morning.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "The essay is specific, submitted on Monday."
+},
+{
+  "id": 122,
+  "sentence": "She is looking for ___ part-time job with flexible hours.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any part-time job, first mention, so 'a'."
+},
+{
+  "id": 123,
+  "sentence": "___ messages we exchanged last night were very personal.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "Specific messages exchanged last night take 'the'."
+},
+{
+  "id": 124,
+  "sentence": "___ parents usually want the best future for their children.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We refer to parents in general, so no article."
+},
+{
+  "id": 125,
+  "sentence": "___ English in his presentation was clear but slightly formal.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "It refers to the particular English used in the presentation."
+},
+{
+  "id": 126,
+  "sentence": "___ English is often easier to understand when spoken slowly.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "English as a language in general takes zero article."
+},
+{
+  "id": 127,
+  "sentence": "Her cousin is ___ economist at the central bank.",
+  "correctArticle": "an",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "The job starts with a vowel sound, so 'an' is needed."
+},
+{
+  "id": 128,
+  "sentence": "It was ___ highest mountain she had ever climbed.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'highest' demands 'the'."
+},
+{
+  "id": 129,
+  "sentence": "He prefers to travel by ___ train rather than by plane.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "Transport with 'by' usually takes no article, like 'by train'."
+},
+{
+  "id": 130,
+  "sentence": "___ Kremlin is a historic fortified complex in Moscow.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "Unique buildings like the Kremlin use 'the'."
+},
+{
+  "id": 131,
+  "sentence": "We spent our holiday sailing around ___ Caribbean.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Regions like the Caribbean usually take 'the'."
+},
+{
+  "id": 132,
+  "sentence": "She practises ___ clarinet every evening after dinner.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "Musical instruments take 'the' in this general sense."
+},
+
+{
+  "id": 133,
+  "sentence": "I forgot to answer ___ question you wrote in the margin.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "This is a specific question written in the margin."
+},
+{
+  "id": 134,
+  "sentence": "She would like to rent ___ studio flat near the center.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any studio flat, first mention, so 'a'."
+},
+{
+  "id": 135,
+  "sentence": "___ supermarkets in our district close at ten o’clock.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "We refer to all supermarkets in one specific district."
+},
+{
+  "id": 136,
+  "sentence": "___ students sometimes underestimate how long assignments really take.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "Students here means all students in general."
+},
+{
+  "id": 137,
+  "sentence": "___ heat in this room makes it difficult to concentrate.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "The heat is specific, in this room now."
+},
+{
+  "id": 138,
+  "sentence": "___ heat is often more dangerous when combined with high humidity.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Heat in general is meant, so zero article."
+},
+{
+  "id": 139,
+  "sentence": "Her aunt is ___ dentist who specialises in children.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "A single profession after 'be' takes 'a'."
+},
+{
+  "id": 140,
+  "sentence": "This is ___ most confusing rule in the whole unit.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlatives like 'most confusing' need 'the'."
+},
+{
+  "id": 141,
+  "sentence": "He left home early to avoid traffic on ___ way to work.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The phrase 'to work' generally takes no article."
+},
+{
+  "id": 142,
+  "sentence": "___ Russian is spoken by millions of people in many countries.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "Language names like Russian normally take no article."
+},
+{
+  "id": 143,
+  "sentence": "They went skiing in ___ Pyrenees during the winter break.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Mountain ranges like the Pyrenees take 'the'."
+},
+{
+  "id": 144,
+  "sentence": "He plays ___ bass guitar in a small rock band.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "musical_instruments",
+  "explanation": "We use 'the' with musical instruments."
+},
+
+{
+  "id": 145,
+  "sentence": "She rewrote ___ paragraph that sounded unclear to the readers.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_singular_specific",
+  "explanation": "It is one specific paragraph that sounded unclear."
+},
+{
+  "id": 146,
+  "sentence": "He wants to open ___ small café near the river.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "countable_singular_general",
+  "explanation": "Any small café, first mention, so 'a'."
+},
+{
+  "id": 147,
+  "sentence": "___ exercises we did in class were really challenging.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "countable_plural_specific",
+  "explanation": "We mean specific exercises done in class."
+},
+{
+  "id": 148,
+  "sentence": "___ journalists must check facts carefully before publishing articles.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "countable_plural_general",
+  "explanation": "We refer to journalists as a group in general."
+},
+{
+  "id": 149,
+  "sentence": "___ stress you feel before an exam can affect performance.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "uncountable_specific",
+  "explanation": "This is specific exam-related stress, understood from context."
+},
+{
+  "id": 150,
+  "sentence": "___ stress is not always negative; it can motivate people.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "uncountable_general",
+  "explanation": "Stress here is a general concept, so no article."
+},
+{
+  "id": 151,
+  "sentence": "Her cousin is ___ professional photographer who travels a lot.",
+  "correctArticle": "a",
+  "difficulty": "medium",
+  "category": "jobs_after_be",
+  "explanation": "Profession after 'be' requires 'a' or 'an'."
+},
+{
+  "id": 152,
+  "sentence": "That was ___ least useful explanation I have ever heard.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "superlatives_unique",
+  "explanation": "Superlatives with 'least' take 'the'."
+},
+{
+  "id": 153,
+  "sentence": "He spent three months in ___ prison for his actions.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "fixed_expressions_no_article",
+  "explanation": "In British English, 'in prison' as a prisoner has no article."
+},
+{
+  "id": 154,
+  "sentence": "___ Asia is the largest continent on our planet.",
+  "correctArticle": "zero",
+  "difficulty": "medium",
+  "category": "proper_nouns",
+  "explanation": "Continents like Asia usually take no article."
+},
+{
+  "id": 155,
+  "sentence": "They sailed around ___ British Isles during their summer vacation.",
+  "correctArticle": "the",
+  "difficulty": "medium",
+  "category": "geographical_exceptions",
+  "explanation": "Groups of islands like the British Isles use 'the'."
+},
+{
+  "id": 156,
+  "sentence": "She is practising ___ organ for the concert next month.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "musical_instruments",
+  "explanation": "Playing an instrument for a concert still uses 'the'."
+},
+
+{
+  "id": 157,
+  "sentence": "He refused to sign ___ contract we had negotiated for weeks.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_singular_specific",
+  "explanation": "The contract is clearly specific and previously negotiated."
+},
+{
+  "id": 158,
+  "sentence": "She is searching for ___ internship that includes accommodation abroad.",
+  "correctArticle": "an",
+  "difficulty": "hard",
+  "category": "countable_singular_general",
+  "explanation": "This is any suitable internship, first mention, so 'an'."
+},
+{
+  "id": 159,
+  "sentence": "___ proposals we reviewed yesterday will be discussed again tomorrow.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific proposals reviewed yesterday."
+},
+{
+  "id": 160,
+  "sentence": "___ volunteers often receive valuable experience instead of high salaries.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "countable_plural_general",
+  "explanation": "We are referring to volunteers in general as a group."
+},
+{
+  "id": 161,
+  "sentence": "___ feedback you provided after the workshop was extremely detailed.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "uncountable_specific",
+  "explanation": "The feedback is a specific set of comments after the workshop."
+},
+{
+  "id": 162,
+  "sentence": "Constructive ___ feedback can help employees grow and improve quickly.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "uncountable_general",
+  "explanation": "Feedback here is a general, uncountable concept."
+},
+{
+  "id": 163,
+  "sentence": "Her nephew is ___ neurosurgeon working at a leading research hospital.",
+  "correctArticle": "a",
+  "difficulty": "hard",
+  "category": "jobs_after_be",
+  "explanation": "Neurosurgeon is a singular profession, so 'a' is required."
+},
+{
+  "id": 164,
+  "sentence": "It was ___ most controversial decision the committee had ever made.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'most controversial' takes 'the'."
+},
+{
+  "id": 165,
+  "sentence": "He stayed in ___ bed all day recovering from the flu.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The phrase 'stay in bed' about illness uses no article."
+},
+{
+  "id": 166,
+  "sentence": "___ International Space Station orbits Earth roughly every ninety minutes.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "proper_nouns",
+  "explanation": "Unique objects like the International Space Station take 'the'."
+},
+{
+  "id": 167,
+  "sentence": "Strong winds were blowing across ___ Gulf of Finland at night.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Named gulfs, like the Gulf of Finland, require 'the'."
+},
+{
+  "id": 168,
+  "sentence": "He has finally mastered improvisation on ___ electric guitar.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "musical_instruments",
+  "explanation": "Talking about mastery of a musical instrument uses 'the'."
+},
+
+{
+  "id": 169,
+  "sentence": "I cannot recommend ___ hotel you booked; it had terrible reviews.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_singular_specific",
+  "explanation": "The hotel is specific, the one you booked."
+},
+{
+  "id": 170,
+  "sentence": "She is hoping to find ___ position that matches her qualifications.",
+  "correctArticle": "a",
+  "difficulty": "hard",
+  "category": "countable_singular_general",
+  "explanation": "Any suitable position, first mention, so 'a'."
+},
+{
+  "id": 171,
+  "sentence": "___ files we archived last month must now be restored.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific archived files from last month."
+},
+{
+  "id": 172,
+  "sentence": "___ immigrants often face complex bureaucratic procedures when arriving.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "countable_plural_general",
+  "explanation": "Immigrants here are discussed in general, not specific individuals."
+},
+{
+  "id": 173,
+  "sentence": "___ trust you earned from your clients can quickly disappear.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "uncountable_specific",
+  "explanation": "Trust is specific: the trust from your clients."
+},
+{
+  "id": 174,
+  "sentence": "Mutual ___ trust is essential in any long-term relationship.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "uncountable_general",
+  "explanation": "Trust here is a general uncountable idea, so no article."
+},
+{
+  "id": 175,
+  "sentence": "Her brother is ___ interpreter specialising in legal negotiations.",
+  "correctArticle": "an",
+  "difficulty": "hard",
+  "category": "jobs_after_be",
+  "explanation": "Interpreter begins with a vowel sound, so 'an' is needed."
+},
+{
+  "id": 176,
+  "sentence": "That was ___ least predictable ending I have seen in years.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "superlatives_unique",
+  "explanation": "The superlative 'least predictable' needs 'the'."
+},
+{
+  "id": 177,
+  "sentence": "He promised to call me on his way to ___ work tomorrow.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "fixed_expressions_no_article",
+  "explanation": "'To work' in this expression takes no article."
+},
+{
+  "id": 178,
+  "sentence": "___ European Union has introduced new regulations on data protection.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Political unions like the European Union use 'the'."
+},
+{
+  "id": 179,
+  "sentence": "They sailed through storms while crossing ___ Atlantic during winter.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Named oceans and seas, like the Atlantic, take 'the'."
+},
+{
+  "id": 180,
+  "sentence": "She hopes to study jazz harmony on ___ double bass next year.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "musical_instruments",
+  "explanation": "We say 'play the double bass' for that instrument."
+},
+
+{
+  "id": 181,
+  "sentence": "He eventually signed ___ agreement we had been arguing about.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_singular_specific",
+  "explanation": "The agreement is clearly specific from prior discussion."
+},
+{
+  "id": 182,
+  "sentence": "She is applying for ___ scholarship that covers living expenses.",
+  "correctArticle": "a",
+  "difficulty": "hard",
+  "category": "countable_singular_general",
+  "explanation": "Any suitable scholarship, first mention, so 'a'."
+},
+{
+  "id": 183,
+  "sentence": "___ reports we submitted last quarter contained several serious errors.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_plural_specific",
+  "explanation": "We mean specific reports submitted last quarter."
+},
+{
+  "id": 184,
+  "sentence": "___ entrepreneurs often fail several times before building successful companies.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "countable_plural_general",
+  "explanation": "We refer to entrepreneurs in general, not particular ones."
+},
+{
+  "id": 185,
+  "sentence": "___ support you receive from colleagues can influence your motivation.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "uncountable_specific",
+  "explanation": "This is specific support from your colleagues."
+},
+{
+  "id": 186,
+  "sentence": "Emotional ___ support is as important as practical help in crises.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "uncountable_general",
+  "explanation": "Support as a general uncountable concept takes no article."
+},
+{
+  "id": 187,
+  "sentence": "Her friend is ___ neurologist who publishes articles in international journals.",
+  "correctArticle": "a",
+  "difficulty": "hard",
+  "category": "jobs_after_be",
+  "explanation": "A singular profession after 'be' requires 'a'."
+},
+{
+  "id": 188,
+  "sentence": "It was ___ most inspiring conference I have ever attended.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'most inspiring' needs 'the'."
+},
+{
+  "id": 189,
+  "sentence": "He spent two weeks in ___ intensive care after the operation.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "fixed_expressions_no_article",
+  "explanation": "Medical phrases like 'in intensive care' can be used without an article."
+},
+{
+  "id": 190,
+  "sentence": "___ Arctic Ocean is covered by sea ice for most of the year.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Named oceans like the Arctic Ocean need 'the'."
+},
+{
+  "id": 191,
+  "sentence": "They travelled across ___ Balkans during their long summer journey.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Regions like the Balkans usually take 'the'."
+},
+{
+  "id": 192,
+  "sentence": "She plans to specialise in baroque music on ___ harpsichord.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "musical_instruments",
+  "explanation": "Talking about playing a specific instrument type uses 'the'."
+},
+
+{
+  "id": 193,
+  "sentence": "I finally located ___ file that kept causing all the problems.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_singular_specific",
+  "explanation": "The file is specific and already known from context."
+},
+{
+  "id": 194,
+  "sentence": "She is searching for ___ mentor who can guide her career.",
+  "correctArticle": "a",
+  "difficulty": "hard",
+  "category": "countable_singular_general",
+  "explanation": "Any suitable mentor, first mention, so 'a'."
+},
+{
+  "id": 195,
+  "sentence": "___ instructions we received from headquarters were surprisingly vague.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "countable_plural_specific",
+  "explanation": "These are specific instructions from headquarters."
+},
+{
+  "id": 196,
+  "sentence": "___ refugees often have to rebuild their lives from nothing.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "countable_plural_general",
+  "explanation": "We refer to refugees as a general group."
+},
+{
+  "id": 197,
+  "sentence": "___ progress you have made this year is truly impressive.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "uncountable_specific",
+  "explanation": "The progress is specific: your progress this year."
+},
+{
+  "id": 198,
+  "sentence": "Academic ___ progress is only one measure of a child’s development.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "uncountable_general",
+  "explanation": "Progress as a general concept is uncountable and takes no article."
+},
+{
+  "id": 199,
+  "sentence": "Her neighbour is ___ oncologist who specialises in rare cancers.",
+  "correctArticle": "an",
+  "difficulty": "hard",
+  "category": "jobs_after_be",
+  "explanation": "Oncologist begins with a vowel sound, so 'an' is needed."
+},
+{
+  "id": 200,
+  "sentence": "That was ___ most generous offer anyone had ever made him.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "superlatives_unique",
+  "explanation": "Superlative 'most generous' requires 'the'."
+},
+{
+  "id": 201,
+  "sentence": "He collapsed and had to be kept in ___ intensive care overnight.",
+  "correctArticle": "zero",
+  "difficulty": "hard",
+  "category": "fixed_expressions_no_article",
+  "explanation": "The medical phrase 'in intensive care' is often used without an article."
+},
+{
+  "id": 202,
+  "sentence": "___ Caucasus is a mountainous region between Europe and Asia.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Regions like the Caucasus normally take 'the'."
+},
+{
+  "id": 203,
+  "sentence": "Storms are common in ___ Mediterranean during late autumn.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "geographical_exceptions",
+  "explanation": "Seas and regions like the Mediterranean use 'the'."
+},
+{
+  "id": 204,
+  "sentence": "She dreams of touring the world as a soloist on ___ violin.",
+  "correctArticle": "the",
+  "difficulty": "hard",
+  "category": "musical_instruments",
+  "explanation": "We use 'the' with musical instruments even in abstract plans."
+}
+]
+}
